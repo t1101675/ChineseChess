@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/b_jiangshuai.png</file>
+        <file>images/b_ju.png</file>
+        <file>images/b_ma.png</file>
+        <file>images/b_pao.png</file>
+        <file>images/b_shi.png</file>
+        <file>images/b_xiang.png</file>
+        <file>images/b_zubing.png</file>
+        <file>images/r_jiangshuai.png</file>
+        <file>images/r_ju.png</file>
+        <file>images/r_ma.png</file>
+        <file>images/r_pao.png</file>
+        <file>images/r_shi.png</file>
+        <file>images/r_xiang.png</file>
+        <file>images/r_zubing.png</file>
+        <file>images/background.png</file>
+        <file>sound/check.mp3</file>
+        <file>images/client.jpg</file>
+        <file>images/end.jpg</file>
+        <file>images/server.jpg</file>
+    </qresource>
+</RCC>
